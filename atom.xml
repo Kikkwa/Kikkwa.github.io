@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Kikkwa.github.io</id>
+    <title>天道虫飞啊飞</title>
+    <updated>2022-07-11T13:20:35.681Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Kikkwa.github.io"/>
+    <link rel="self" href="https://Kikkwa.github.io/atom.xml"/>
+    <subtitle>一生にどれだけのひとたちといきあうだろう</subtitle>
+    <logo>https://Kikkwa.github.io/images/avatar.png</logo>
+    <icon>https://Kikkwa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 天道虫飞啊飞</rights>
+    <entry>
+        <title type="html"><![CDATA[开始]]></title>
+        <id>https://Kikkwa.github.io/post/hajimei/</id>
+        <link href="https://Kikkwa.github.io/post/hajimei/">
+        </link>
+        <updated>2022-07-10T17:14:57.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>▎缘由</strong></p>
+<p>拍摄了的照片一直分类整齐的保存的很好。</p>
+<p>虽然只是没有经过滤镜或者一些美化修改直接从相机或者手机上导出的一些日常照片。</p>
+<p>但是想分享给关心我的人看。</p>
+<p><strong>▎博客</strong></p>
+<p>找了很久博客的制作方法，因为自己的原因（笨）都没有能好好的实现。</p>
+<p>最好终于找到了这个最简单的办法，也不需要太大的开销的方法。</p>
+<p><strong>▎希望</strong></p>
+<p>这个我能一点一点更新出一些内容。</p>
+]]></content>
+    </entry>
+</feed>
